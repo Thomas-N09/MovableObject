@@ -1,4 +1,4 @@
-let box = document.getElementById("box");
+let box = document.querySelector(".box");
 let moveBox = 10;
 
 window.addEventListener("load", () => {

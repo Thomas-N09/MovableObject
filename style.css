@@ -16,17 +16,19 @@ main {
   transform: translate(-50%, -50%);
   width: 60%;
   height: 60%;
+  overflow-x: hidden;
 }
 
-#frame {
+.frame {
   width: 80%;
   height: 200px;
   text-align: center;
   align-items: center;
   justify-content: center;
+  overflow-x: hidden;
 }
 
-#box {
+.box {
   height: 100px;
   width: 100px;
   border-radius: 5%;
