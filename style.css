@@ -16,7 +16,6 @@ main {
   transform: translate(-50%, -50%);
   width: 60%;
   height: 60%;
-  overflow-x: hidden;
 }
 
 .frame {
@@ -25,7 +24,6 @@ main {
   text-align: center;
   align-items: center;
   justify-content: center;
-  overflow-x: hidden;
 }
 
 .box {
